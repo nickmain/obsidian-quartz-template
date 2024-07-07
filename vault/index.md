@@ -23,3 +23,4 @@ const config: QuartzConfig = {
 ```
 
 * #todo  Edit `title` property of this page.
+* #todo  Enable Github Pages via Actions on Github web.
