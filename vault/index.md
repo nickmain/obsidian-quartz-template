@@ -9,7 +9,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 #### Set up steps
 
-* #todo  Edit `quartz/quartz.config.ts` :
+* #todo  Edit `quartz/quartz.config.ts` to change title and base url:
 
 ```typescript
 const config: QuartzConfig = {
