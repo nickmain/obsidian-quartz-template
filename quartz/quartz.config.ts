@@ -8,12 +8,12 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "GH Action Testbed",
+    pageTitle: "Site Template",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "hello.nickmain.com/actions-testbed",
+    baseUrl: "hello.nickmain.com/obsidian-quartz-template",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

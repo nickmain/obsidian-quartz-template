@@ -14,12 +14,12 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 ```typescript
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "GH Action Testbed",  <---- title
+    pageTitle: "Site Template",  <---- title
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "hello.nickmain.com/actions-testbed", <---- base url
+    baseUrl: "hello.nickmain.com/obsidian-quartz-template", <---- base url
 ```
 
 * #todo  Edit `title` property of this page.
