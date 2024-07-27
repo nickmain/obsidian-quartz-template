@@ -4,3 +4,5 @@ node_modules
 private/
 .replit
 replit.nix
+site
+workspace.json

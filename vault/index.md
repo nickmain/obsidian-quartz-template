@@ -23,4 +23,5 @@ const config: QuartzConfig = {
 ```
 
 * #todo  Edit `title` property of this page.
+* #todo  Edit Footer.tsx to change site URL
 * #todo  Enable Github Pages via Actions on Github web.
